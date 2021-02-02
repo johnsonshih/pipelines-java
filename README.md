@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/johnsonshih0601/johnsonshih/_apis/build/status/johnsonshih.pipelines-java?branchName=master)](https://dev.azure.com/johnsonshih0601/johnsonshih/_build/latest?definitionId=1&branchName=master)
 
 # Contributing
 
